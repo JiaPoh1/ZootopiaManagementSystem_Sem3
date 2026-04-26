@@ -9,7 +9,7 @@
 
 1) Extract the ZIP file
 2) Place the folder in your home directory
-3) Run the program from:
+3) Run the program from the following directory:
 ```
 $HOME/Zootopia_ASH/
 ```
@@ -21,30 +21,30 @@ It is designed to simulate a zoo management environment where users can manage s
 
 ## 🎯 Features
 
-## 🐻 Species Management
+### 🐻 Species Management
 - Add (Import) new species
 - Update species information
 - Store species details in species.txt
 
-## 🐾 Animal Management
+### 🐾 Animal Management
 - Add new animals
 - Remove animals (release to wild)
 - Assign animals to species
 - Store animal data in animal.txt
 
-## 📊 Information Display
+### 📊 Information Display
 - View animal details (name, ID, growth stage, feeding time)
 - View species details (habitat, diet, description)
 - Interactive tree structure for navigation
 
-## 🍽 Feeding System
+### 🍽 Feeding System
 - Feed animals and update feeding timestamp
 - Automatically stored in file
 
-## 🎟 Ticket Calculator
+### 🎟 Ticket Calculator
 - Calculate ticket prices based on:
- - Category (Malaysian / Non-Malaysian)
- - Age group (Child / Adult / Senior)
+  - Category (Malaysian / Non-Malaysian)
+  - Age group (Child / Adult / Senior)
 
 ## 🛠 Technologies Used
 - Java
